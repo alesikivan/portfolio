@@ -18,7 +18,6 @@ export default function SmoothScrolling() {
       gestureOrientation: "vertical",
       smoothWheel: true,
       wheelMultiplier: 0.8, // Коэффициент чувствительности колеса мыши
-      smoothTouch: false, // На мобильных устройствах оставляем нативную прокрутку
       touchMultiplier: 2,
     });
 
