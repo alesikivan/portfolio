@@ -65,7 +65,7 @@ export default function About() {
           <Card className="border-border/50 hover:border-border/80">
             <CardContent className="pt-8">
               <p className="text-lg md:text-xl leading-relaxed text-muted-foreground/80 font-light">
-                Full-Stack Engineer with 5+ years of experience in building scalable,
+                Full-Stack Engineer with 6+ years of experience in building scalable,
                 high-load systems and AI-integrated web applications. Strong
                 background in applied mathematics and a proven track record of
                 delivering full-cycle solutions — from backend architecture to

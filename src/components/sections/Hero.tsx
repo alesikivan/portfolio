@@ -32,7 +32,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
           className="text-xl md:text-2xl text-muted-foreground/70 max-w-3xl mx-auto leading-relaxed font-light !mt-3"
         >
-          5+ years building scalable, high-load systems and AI-integrated web applications
+          6+ years building scalable, high-load systems and AI-integrated web applications
         </motion.p>
 
         <motion.div

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://alesikivan.ucomp.net"),
   title: "Ivan Alesik - Full-stack Engineer",
   description:
-    "Full-Stack Engineer with 5+ years of experience in building scalable, high-load systems and AI-integrated web applications. Strong background in applied mathematics.",
+    "Full-Stack Engineer with 6+ years of experience in building scalable, high-load systems and AI-integrated web applications. Strong background in applied mathematics.",
   keywords: [
     "Full-stack Engineer",
     "Software Engineer",
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     url: "https://alesikivan.ucomp.net",
     title: "Ivan Alesik - Full-stack Engineer",
     description:
-      "Full-Stack Engineer with 5+ years of experience in building scalable, high-load systems and AI-integrated web applications.",
+      "Full-Stack Engineer with 6+ years of experience in building scalable, high-load systems and AI-integrated web applications.",
     siteName: "Ivan Alesik Portfolio",
     images: [
       {
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Ivan Alesik - Full-stack Engineer",
     description:
-      "Full-Stack Engineer with 5+ years of experience in building scalable, high-load systems and AI-integrated web applications.",
+      "Full-Stack Engineer with 6+ years of experience in building scalable, high-load systems and AI-integrated web applications.",
     images: ["/og-image.jpg"],
   },
   robots: {
